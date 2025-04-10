@@ -23,26 +23,10 @@ Android SDK Manager 도구
 
 ![poster](./wisej-vs2022.files/image006.jpg)
 
-
-
-
-
- 
-
- 
-
- 
-
- 
-
 Android Emulator 화면 스플래쉬
 
- 
-
- 
-
-
- 
+![poster](./wisej-vs2022.files/image007.jpg)
 
 디버깅 화면 입니다.
 
+![poster](./wisej-vs2022.files/image008.jpg)
