@@ -35,3 +35,9 @@ Android Emulator 화면 스플래쉬
 디버깅 화면 입니다.
 
 ![poster](./wisej-vs2022.files/image011.jpg)
+
+
+License
+-------
+<img src="http://iceteagroup.com/wp-content/uploads/2017/01/Square-64x64-trasp.png" height="20" align="top"> Copyright (C) ICE TEA GROUP LLC, All rights reserved.
+
