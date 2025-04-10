@@ -1,4 +1,4 @@
-WiseJ로 Android, IOS 개발을 위해서 VS2022 설치 내용
+WiseJ 3.5 Hybrid로 Android, IOS 개발을 위한 VS2022 설치 내용
 
 ![poster](./wisej-vs2022.files/image001.jpg)
 
